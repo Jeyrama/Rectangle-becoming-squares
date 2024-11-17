@@ -22,3 +22,5 @@ function sqInRect(lng, wdth){
   }
   return arr
 }
+
+// or
